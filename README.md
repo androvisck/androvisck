@@ -7,5 +7,7 @@
 - 👉 I’m looking to collaborate on open-source projects;
 - 👉 Ask me about anything! I like to talk a lot.
 
+### Contacts
+
 - 👋 E-mail: androvisckb@gmail.com
 - 👋 LinkedIn: /in/andrejfranca
