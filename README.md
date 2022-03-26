@@ -25,7 +25,7 @@
 
 ### What I'm looking for:
 - 👉 A collaborative study environment
-- 👉 A collaborate on open-source projects
+- 👉 To collaborate on open-sources projects
 
 ### Contacts
 - 👉 Ask me about anything! I like to talk a lot 😂
