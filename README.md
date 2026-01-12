@@ -20,8 +20,11 @@
 - 🇧🇷 I’m from Brazil.
 - 👉 I’m currently working at Sidia (Manaus -AM) as Sr QA Engineer.
 - ✅️ 5+ years working as a QA
-- 🏅 Experience with test on mobile projects, particularly Android OS. 
-- 🎓 Two Technician Certifications in 📡 Telecommunications and 💻 Eletronics.
+- 📜 CTFL & CTFL-AT
+- 🏅 Experience with test on mobile projects, particularly Android OS.
+- 🖋️ Master's Degree Systems Engineering
+- 🖋️ Bacherlor's Degree Systems Engineering
+- 🎓 Two Technician in 📡 Telecommunications and 💻 Eletronics.
 - 🎷 In my free time I like to play saxophone.
 
 
