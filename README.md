@@ -39,20 +39,20 @@
 </div>
 
 ### 📚 I'm Currently Learning
-[![My Learning](https://skillicons.dev/icons?i=rust,vscode,java,eclipse&theme=light)](https://skillicons.dev)
+[![My Learning](https://skillicons.dev/icons?i=rust,vscode,javascript,cypress&theme=light)](https://skillicons.dev)
 
 
 ### 🔥 Soft Skills:
 - 📢 Good Communications
 - ✍️ Writing
-- 🗓️ Time Management
 - 🤔 Critical Thinking
+- 👍 Problem-Solving Skills
+- ⚠️ Attention to Details
 - ✎ᝰ Teaching
 - ꩜ Continuos Learning
-- ⚠️ Attention to Details
 - 🤝 Collaboration and Teamwork
 - 💡 Creativity
-- 👍 Problem-Solving Skills
+- 🗓️ Time Management 
 - 🔝 Adaptability
 
 
