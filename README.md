@@ -18,13 +18,18 @@ Professional with over 11 years in the tech industry, specialized in the **Mobil
 
 - 🇧🇷 I’m from Brazil.
 - 👉 I’m currently working at Sidia (Manaus -AM) as Sr QA Engineer.
-- ✅️ 5+ years working as a QA
+- ✅️ 6+ years working as a QA
 - 📜 CTFL & CTFL-AT certified
 - 🏅 Experience with test on mobile projects, particularly Android OS.
 - 🖋️ Master's Degree Systems Engineering
 - 🖋️ Bacherlor's Degree Systems Engineering
 - 🎓 Two Technician in 📡 Telecommunications and 💻 Eletronics.
 - 🎷 In my free time I like to play saxophone.
+
+---
+
+### 🗃️ Portfolio
+https://androvisck.github.io
 
 ---
 
